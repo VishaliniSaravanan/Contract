@@ -1,0 +1,52 @@
+[
+  {
+    "id": "usr-001",
+    "email": "k.morgan@rivergatewater.co.uk",
+    "name": "Katherine Morgan",
+    "role": "CONTRACT_OPS_MANAGER",
+    "roleLabel": "Contract Operations Manager",
+    "department": "Procurement & Contracts",
+    "avatar": "KM",
+    "permissions": ["VIEW_ALL", "ASSIGN_OWNER", "ESCALATE", "INITIATE_RENEWAL", "RESOLVE", "MONITOR", "APPROVE", "EXPORT"]
+  },
+  {
+    "id": "usr-002",
+    "email": "s.patel@rivergatewater.co.uk",
+    "name": "Sunita Patel",
+    "role": "CONTRACT_OWNER",
+    "roleLabel": "Contract Owner",
+    "department": "Energy & Utilities",
+    "avatar": "SP",
+    "permissions": ["VIEW_OWN", "MONITOR", "INITIATE_RENEWAL", "UPDATE_STATUS"]
+  },
+  {
+    "id": "usr-003",
+    "email": "g.davies@rivergatewater.co.uk",
+    "name": "Gareth Davies",
+    "role": "PROCUREMENT_MANAGER",
+    "roleLabel": "Procurement Manager",
+    "department": "Procurement & Contracts",
+    "avatar": "GD",
+    "permissions": ["VIEW_ALL", "ASSIGN_OWNER", "APPROVE", "MONITOR", "INITIATE_RENEWAL"]
+  },
+  {
+    "id": "usr-004",
+    "email": "l.jackson@rivergatewater.co.uk",
+    "name": "Laura Jackson",
+    "role": "LEGAL_COMPLIANCE",
+    "roleLabel": "Legal Compliance Reviewer",
+    "department": "Legal & Compliance",
+    "avatar": "LJ",
+    "permissions": ["VIEW_ALL", "COMPLIANCE_FLAG", "LEGAL_REVIEW", "MONITOR", "ESCALATE"]
+  },
+  {
+    "id": "usr-005",
+    "email": "w.okonkwo@rivergatewater.co.uk",
+    "name": "William Okonkwo",
+    "role": "APPROVER",
+    "roleLabel": "Approver",
+    "department": "Finance & Governance",
+    "avatar": "WO",
+    "permissions": ["VIEW_PENDING_APPROVAL", "APPROVE", "REJECT", "MONITOR"]
+  }
+]

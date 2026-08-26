@@ -1,0 +1,12 @@
+# Contract Management — Git Ignore
+
+node_modules/
+dist/
+.env
+.env.local
+.env.*.local
+*.log
+npm-debug.log*
+.DS_Store
+.vscode/
+*.local
