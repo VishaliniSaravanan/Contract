@@ -9,7 +9,7 @@ export default defineConfig(({ command }) => ({
     host: '0.0.0.0',
     open: false,
     strictPort: false,
-    allowedHosts: ['pf-bp-2271-68c7bd46d31082eaaf5be646.devzonecg.ktern.com', 'localhost'],
+    allowedHosts: ['pf-bp-2271-68c7bd46d31082eaaf5be646.devzonecg.ktern.com','contract-management-gzi7.onrender.com', 'localhost'],
   },
   build: {
     outDir: 'dist',
